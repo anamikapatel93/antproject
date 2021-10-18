@@ -5,10 +5,6 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>MuteTriggerTest.trigger</members>
-        <name>ApexTrigger</name>
-    </types>
-    <types>
         <members>Account</members>
         <members>Mute__c</members>
         <name>CustomObject</name>
