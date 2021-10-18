@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>Account.tobeUpdated</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>To be update Accounts</members>
+        <name>Report</name>
+    </types>
+    <types>
+        <members>Account</members>
+        <members>Mute__c</members>
+        <name>CustomObject</name>
+    </types>
+    <version>52.0</version>
+</Package>
