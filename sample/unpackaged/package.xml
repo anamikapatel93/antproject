@@ -5,12 +5,8 @@
         <name>CustomField</name>
     </types>
     <types>
-        <members>Account</members>
+        <members>MuteTriggerTest.trigger</members>
         <name>ApexTrigger</name>
-    </types>
-    <types>
-        <members>To be update Accounts</members>
-        <name>Report</name>
     </types>
     <types>
         <members>Account</members>
